@@ -26,7 +26,7 @@ This file contains public URLs to view important certifications earned through r
 ## HashiCorp Certifications
 
 1. **HashiCorp Certified: Terraform Associate**
-    *Exam Code: HCTA0-003*
-    [View Certification](https://www.credly.com/badges/0efa4519-229d-48d1-8cc6-df309508501c/public_url)
+    > - *Exam Code: HCTA0-003*
+    > - *[View Certification](https://www.credly.com/badges/0efa4519-229d-48d1-8cc6-df309508501c/public_url)*
 
 ---
