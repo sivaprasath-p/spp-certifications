@@ -23,4 +23,4 @@ This repository is designed to:
 
 ---
 
-[`.md` basic-syntax](https://www.markdownguide.org/basic-syntax/)
+MarkDown File (.md) : *[Basic Syntax](https://www.markdownguide.org/basic-syntax/)*
