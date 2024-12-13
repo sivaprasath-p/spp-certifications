@@ -23,7 +23,7 @@ This repository is designed to:
 ### How to Navigate
 
 - Browse through the folders to explore certificates categorized by course and exam.
-- Refer to the [certifications_url.md](https://github.com/sivaprasath-p/spp-certifications/blob/main/certifications_url.md) file for direct public URLs to select exam certifications.
+- Refer to the [README.md](https://github.com/sivaprasath-p/spp-certifications/tree/main/2.%20Exam%20Certifications) file for direct public URLs to select exam certifications.
 
 ---
 
