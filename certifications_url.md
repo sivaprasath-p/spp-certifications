@@ -1,4 +1,8 @@
 
+# Profile Summary
+
+*Experienced DevOps Engineer with expertise in tools like Git, GitHub Actions, Jenkins, Docker, Ansible, and Terraform. Proficient in AWS services, managing EC2, EBS, S3, VPC (IGW, NGW, Peering, Transit Gateway), ECS, ECR, and RDS to deliver secure, scalable solutions. Skilled in infrastructure monitoring using OpsGenie, LogicMonitor, Wavefront, and Nagios. I excel in implementing CI/CD pipelines, automation, and optimizing cloud infrastructure for seamless operations.*
+
 # Exam Certification Public Links
 
 This file contains public URLs to view important certifications earned through recognized exams. The links are organized by provider and certification type for easy reference.
@@ -27,5 +31,3 @@ This file contains public URLs to view important certifications earned through r
 ---
 
 *My Credly User Profile* : *[spp-master](https://www.credly.com/users/spp-master)*
-
----
