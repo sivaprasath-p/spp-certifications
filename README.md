@@ -1,4 +1,8 @@
 
+# Profile Summary
+
+*Experienced DevOps Engineer with expertise in tools like Git, GitHub Actions, Jenkins, Docker, Ansible, and Terraform. Proficient in AWS services, managing EC2, EBS, S3, VPC (IGW, NGW, Peering, Transit Gateway), ECS, ECR, and RDS to deliver secure, scalable solutions. Skilled in infrastructure monitoring using OpsGenie, LogicMonitor, Wavefront, and Nagios. I excel in implementing CI/CD pipelines, automation, and optimizing cloud infrastructure for seamless operations.*
+
 # Certifications Repository
 
 Welcome to my Certifications Repository! This repository serves as a centralized location to organize, track, and showcase the certificates I have earned through various courses and exams. Below is an overview of the content included in this repository.
