@@ -1,15 +1,15 @@
 
-# Public Exam Certification Links
+# Exam Certification Public Links
 
 This file contains public URLs to view important certifications earned through recognized exams. The links are organized by provider and certification type for easy reference.
 
-## AWS (Amazon Web Services) Certifications
+### AWS (Amazon Web Services) Certifications
 
 1. **AWS Certified Solutions Architect – Associate**
     > - *Exam Code: SAA-C003*
     > - *[View Certification](https://www.credly.com/badges/3f558130-cd86-4d43-9d1a-2ace41c1ffc9/public_url)*
 
-## OCI (Oracle Cloud Infrastructure) Certifications
+### OCI (Oracle Cloud Infrastructure) Certifications
 
 1. **OCI 2023 Certified Foundations Associate**
     > - *Exam Code: 1Z0-1085-23*
@@ -23,10 +23,16 @@ This file contains public URLs to view important certifications earned through r
     > - *Exam Code: 1Z0-1109-23*
     > - *[View Certification]()*
 
-## HashiCorp Certifications
+### HashiCorp Certifications
 
 1. **HashiCorp Certified: Terraform Associate**
-    > - *Exam Code: HCTA0-003*
-    > - *[View Certification](https://www.credly.com/badges/0efa4519-229d-48d1-8cc6-df309508501c/public_url)*
+    > *Exam Code: HCTA0-003*
+    > *[View Certification](https://www.credly.com/badges/0efa4519-229d-48d1-8cc6-df309508501c/public_url)*
 
 ---
+
+> [My Credly User Profile](https://www.credly.com/users/spp-master)
+
+---
+
+[`.md` basic-syntax](https://www.markdownguide.org/basic-syntax/)
