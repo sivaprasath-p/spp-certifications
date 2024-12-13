@@ -26,6 +26,6 @@ This file contains public URLs to view important certifications earned through r
 
 ---
 
-## *My Credly User Profile* : *[spp-master](https://www.credly.com/users/spp-master)*
+*My Credly User Profile* : *[spp-master](https://www.credly.com/users/spp-master)*
 
 ---
