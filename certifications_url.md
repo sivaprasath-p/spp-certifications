@@ -21,7 +21,7 @@ This file contains public URLs to view important certifications earned through r
     > - *Exam Code: 1Z0-1072-23* // *[View Certification](https://catalog-education.oracle.com/ords/certview/sharebadge?id=E20F4B490A6B59D77DABB4E8DD1DE507BADF2F5F387ED9C773DD093BC53BFEFF)*
 
 3. **OCI 2023 Certified DevOps Professional**
-    > - *Exam Code: 1Z0-1109-23* // *[View Certification]()*
+    > - *Exam Code: 1Z0-1109-23* // *[View Certification](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D02EC6587B20DFBD839566A24C66CE0CF155CA8E44793EC49FA613AE03DEF02D)*
 
 ### HashiCorp Certifications
 
